@@ -83,7 +83,10 @@
 
 ## 📈 My GitHub Insights 📊  
 
-<p align="center">
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&show_icons=true&locale=en" alt="shahzaddmajid12" />
+</p>
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzadmajid12&show_icons=true&theme=default&locale=en" alt="GitHub Stats" height="160"/>
 </p>
 
@@ -98,7 +101,7 @@
 <p align="center">
   <img src="https://github-contribution-activity-graph.vercel.app/graph?username=shahzadmajid12&theme=github" alt="Contribution Graph"/>
 </p>
-
+ -->
 ---
 
 ## 🤝 Connect With Me  
@@ -108,5 +111,3 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
   </a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&show_icons=true&locale=en" alt="shahzaddmajid12" /></p>
