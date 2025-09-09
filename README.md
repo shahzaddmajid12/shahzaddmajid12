@@ -35,6 +35,9 @@
   <!-- Languages -->
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/></a>
+    <!-- Databases -->
+  <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/></a>
 </p>
 
 <p align="center">
@@ -42,6 +45,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></a>
   <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/></a>
   <a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="50" height="50"/></a>
+    <!-- Cloud & Hosting -->
+  <a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50"/></a>
+  <a href="https://aws.amazon.com/amplify/"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" width="50" height="50"/></a>
+  <a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/></a>
+  <a href="https://heroku.com"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="50" height="50"/></a>
 </p>
 
 <p align="center">
