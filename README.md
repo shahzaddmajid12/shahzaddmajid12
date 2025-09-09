@@ -22,7 +22,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <h2 align="center"> Portfolio & Work </h2>
 <p align="center">
 <a href="https://www.connectcaretrans.com/"><img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="Redux" width="100" height="100"/></a>
-  More projects coming soon
+  ##
+  There are more projects i will share soon
 </p>
 
 ---
