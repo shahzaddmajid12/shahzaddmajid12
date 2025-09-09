@@ -17,14 +17,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <!--
 - 📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzaddmajid12?tab=repositories)
 -->
+
 ---
 
 <h2 align="center"> Portfolio & Work </h2>
 <p align="center">
 <a href="https://www.connectcaretrans.com/"><img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="Redux" width="100" height="100"/></a>
-  ##
-  There are more projects i will share soon
 </p>
+  # I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | AI & Automation Explorer 
 
 ---
 
