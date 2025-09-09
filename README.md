@@ -90,7 +90,16 @@
     alt="GitHub Stats" 
     height="165" 
   />
-  
+
+  <!-- Top Languages -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaddmajid12&layout=compact&theme=github_dark" 
+    alt="Top Languages" 
+    height="165" 
+  />
+</p>
+
+<p align="center">
   <!-- Streak Stats -->
   <img 
     src="https://streak-stats.demolab.com?user=shahzaddmajid12&theme=github-dark&hide_border=false" 
