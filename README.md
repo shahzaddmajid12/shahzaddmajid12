@@ -20,14 +20,41 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 ---
 
-<h2 align="center"> Portfolio & Work </h2>
-<p align="center">
-<a href="https://www.connectcaretrans.com/"><img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="Redux" width="100" height="100"/></a>
-<a href="https://riyowork.com/"><img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="Redux" width="100" height="100"/></a>
-</p>
-  <h5 align="center"> I will share more links soon </h5> 
+<h2 align="center"> 🚀 Portfolio & Work </h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="300px">
+      <a href="https://www.connectcaretrans.com/">
+        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
+      </a>
+      <h4>ConnectCare</h4>
+      <ul align="left">
+        <li>Developed from scratch</li>
+        <li>Ongoing in Chicago</li>
+        <li>1900+ rides completed</li>
+        <li>5000+ clients</li>
+      </ul>
+    </td>
+    <td align="center" width="300px">
+      <a href="https://riyowork.com/">
+        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
+      </a>
+      <h4>RiyoWork</h4>
+      <ul align="left">
+        <li>Smart hiring & freelancing platform</li>
+        <li>Developed core features & UI</li>
+        <li>Real-time collaboration tools</li>
+        <li>Ongoing improvements</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h5 align="center">✨ More project links coming soon ✨</h5>
 
 ---
+
 
 <br clear="both">
 
