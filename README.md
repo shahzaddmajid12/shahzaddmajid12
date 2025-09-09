@@ -14,12 +14,13 @@
 
 With over **5 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
+<--
 - 📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzaddmajid12?tab=repositories)
-
+-->
 ---
 
 <h2 align="center"> Portfolio & Work </h2>
-- 📌 **Portfolio:** Coming Soon    
+- 📌 Portfolio: Coming Soon    
 
 ---
 
