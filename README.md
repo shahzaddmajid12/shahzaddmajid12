@@ -53,7 +53,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     </td>
     </td>
     <td align="center" width="300px">
-      <a href="https://riyowork.com/" target="_blank">
+      <a href="https://www.shaikhsilk.com/" target="_blank">
         <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
 <!--         <h4>RiyoWork</h4> -->
         <ul align="left">
