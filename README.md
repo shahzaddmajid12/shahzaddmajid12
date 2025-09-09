@@ -15,45 +15,8 @@
 With over **5 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
 - 📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzaddmajid12?tab=repositories)
-##
-
-### 💡 What I Do
-- 🚀 Build and maintain **internal web apps** for SMEs and startups.  
-- 🔗 Integrate **dynamic data flows** using Node.js and MongoDB.  
-- 📊 Develop **custom dashboards** and reusable **UX components**.  
-- 🗺️ Design complex **map-based interfaces** with Google Maps API.  
-- 🔐 Implement **role-based permissions**, **admin modals**, and interactive UI flows.  
-- 📑 Deliver robust **Excel & PDF export** features for reporting.  
-- 🤖 Explore **Agentic AI systems**, automation with **n8n** & **Salesforce Work.com**.  
-- 💬 Automate client communication using **ManyChat** & AI-driven email flows.  
 
 ---
-
-### 🛠️ Tech Stack & Skills
-
-**Frontend:**  
-React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind · Bootstrap · Redux · Tooltips · Modals  
-
-**Backend:**  
-Node.js · Express.js · REST APIs · JWT Auth · Bcrypt · Mongoose  
-
-**Database:**  
-MongoDB · Aggregation Pipelines · Schemas · Indexing  
-
-**Maps & Location:**  
-Google Maps API (Markers, Polylines, Directions, Tooltips, Layers)  
-
-**Dev Tools & Others:**  
-Agile · AWS · GraphQL · Payment Gateway Integration · WebSocket · Redux · Git · Agora · JWT Authentication · UI Optimization · Manual & Functional Testing · Slack · ClickUp · JIRA  
-
-**No-Code Platforms:**  
-Odoo ERP & POS modules · Shopify  
-
-**Exploring:**  
-Agentic AI · n8n · Salesforce Work.com  
-
----
-
 
 <h2 align="center"> Portfolio & Work </h2>
 - 📌 **Portfolio:** Coming Soon    
@@ -145,13 +108,3 @@ Agentic AI · n8n · Salesforce Work.com
   />
 </div>
 
----
-
-
-## 🤝 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shahzad-majid-software-engr/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
-  </a>
-</p>
