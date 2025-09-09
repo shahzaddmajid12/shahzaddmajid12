@@ -42,7 +42,7 @@ card didnt create back to table on every td on a link
         <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
         <h4>RiyoWork</h4>
         <ul align="left">
-          <li>Smart hiring & freelancing platform</li>
+          <li>Complete Employee Management System</li>
           <li>Developed core features & UI</li>
           <li>Real-time collaboration tools</li>
           <li>Ongoing improvements</li>
