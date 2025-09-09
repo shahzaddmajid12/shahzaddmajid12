@@ -52,7 +52,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
     </td>
-    
     </td>
     <td width="400px">
       <a href="https://www.shaikhsilk.com/" target="_blank">
