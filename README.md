@@ -51,17 +51,7 @@ card didnt create back to table on every td on a link
         </ul>
       </a>
     </td>
-    <td align="center" width="300px">
-      <a href="https://shaikhsilk.com/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/a78e8768-573f-4aa8-842e-f1dd798d40e3" alt="Shaikh Silk" width="100" height="100"/>
-        <h4>Shailk Silk</h4>
-        <ul align="left">
-          <li>Shopify Store</li>
-          <li>E-commerce Platform</li>
-          
-        </ul>
-      </a>
-    </td>
+    
   </tr>
 </table>
 
