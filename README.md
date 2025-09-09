@@ -20,14 +20,13 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 ---
 
-
+card didnt create back to table on every td on a link
 <h2 align="center"> 🚀 Portfolio & Work </h2>
 
 <table align="center">
   <tr>
-    <!-- ConnectCare -->
     <td align="center" width="300px">
-      <a href="https://www.connectcaretrans.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://www.connectcaretrans.com/" target="_blank">
         <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
         <h4>ConnectCare</h4>
         <ul align="left">
@@ -38,10 +37,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
     </td>
-
-    <!-- RiyoWork -->
     <td align="center" width="300px">
-      <a href="https://riyowork.com/" target="_blank" style="text-decoration: none; color: inherit;">
+      <a href="https://riyowork.com/" target="_blank">
         <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
         <h4>RiyoWork</h4>
         <ul align="left">
@@ -56,7 +53,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 </table>
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
-
 
 ---
 
