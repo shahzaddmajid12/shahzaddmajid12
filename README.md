@@ -62,26 +62,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
   </tr>
-  <tr>
-    <td width="400px">
-      <a href="https://riyowork.com/" target="_blank">
-        <img src="" alt="RiyoWork" width="150" height="150"/>
-<!--         <h4>ConnectCare</h4> -->
-        <ul align="left">
-          <li>RiyoWork - A Employee Management System</li>
-        </ul>
-      </a>
-    </td>
-      </td>
-    <td width="400px">
-      <a href="https://bitefoodly.pages.dev/" target="_blank">
-        <img src="https://i.ibb.co/QdBkvG2/sample-logo.png" alt="Drovi" width="120" height="120"/>
-<!--         <h4>ConnectCare</h4> -->
-        <ul align="left">
-          <li>Drovi - Food and Medicine and Store Delivery system -> Only Food Data is showing as Demo</li>
-        </ul>
-      </a>
-  </tr>
 </table>
 <h5 align="center">✨ More project links coming soon ✨</h5>
 
