@@ -52,13 +52,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
     </td>
+    
     </td>
     <td width="400px">
-      <a href="https://bitefoodly.pages.dev/" target="_blank">
-        <img src="https://i.ibb.co/QdBkvG2/sample-logo.png" alt="Drovi" width="120" height="120"/>
+      <a href="https://www.shaikhsilk.com/" target="_blank">
+        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="120" height="120"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
-          <li>Drovi - Food and Medicine and Store Delivery system -> Only Food Data is showing as Demo</li>
+          <li>Shaikh Silk - Shopify Ecommerce Store</li>
         </ul>
       </a>
   </tr>
@@ -72,13 +73,13 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
     </td>
-    </td>
+      </td>
     <td width="400px">
-      <a href="https://www.shaikhsilk.com/" target="_blank">
-        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="120" height="120"/>
+      <a href="https://bitefoodly.pages.dev/" target="_blank">
+        <img src="https://i.ibb.co/QdBkvG2/sample-logo.png" alt="Drovi" width="120" height="120"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
-          <li>Shaikh Silk - Shopify Ecommerce Store</li>
+          <li>Drovi - Food and Medicine and Store Delivery system -> Only Food Data is showing as Demo</li>
         </ul>
       </a>
   </tr>
