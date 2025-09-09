@@ -62,6 +62,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
       </a>
   </tr>
 </table>
+<table align="center">
 <tr>
     <td align="center" width="300px">
       <a href="https://www.connectcaretrans.com/" target="_blank">
@@ -99,6 +100,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
   </tr>
+</table>
 
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
