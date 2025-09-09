@@ -8,11 +8,16 @@
 
 ---
 
-# 👋 Hi, I'm Shahzad  
+## 🌟 Assalam U Alaikum and Hello, Welcome to my profile! 👋  
 
-🎯 **A passionate frontend developer from Pakistan**  
-🔗 [Check out my portfolio](#)  
-📂 [Browse my repositories](https://github.com/shahzadmajid12?tab=repositories)  
+### I'm **Shahzad Majid** ✍
+
+🔹 **Software Engineer | Full Stack Developer**  
+🔹 Specializing in **Flutter, PHP, Python, AI, and Data Science**  
+🔹 Passionate about **Islamic Software Development, AI Research, and Open Source**  
+
+📌 **Portfolio:**
+📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzadmajid12?tab=repositories)  
 
 ---
 
