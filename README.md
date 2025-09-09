@@ -31,11 +31,16 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>Non-Emergency Medical Transportation</li>
-          <li>Developed from scratch</li>
-          <li>Ongoing in Chicago</li>
-          <li>Real Time tracking and payment integration</li>
-          <li>1900+ rides completed</li>
-          <li>5000+ clients</li>
+          <li>Ongoing in Chicago, going live in Minnesota this week</li>
+          <li>Built from scratch</li>
+          <li>Handles real-time & advance ride bookings for specialized services</li>
+          <li>Driver assignments, trip tracking, and automated reporting</li>
+          <li>Automated email notifications upon ride creation</li>
+          <li>Agora for real-time in-app calling</li>
+          <li>WebSockets for live chat and notifications</li>
+          <li>Squareup payment gateway integration</li>
+          <li>Actively used by <b>5,000+ clients</b></li>
+          <li><b>19,000+ rides</b> completed</li>
         </ul>
       </a>
     </td>
