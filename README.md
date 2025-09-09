@@ -108,3 +108,5 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
   </a>
 </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&show_icons=true&locale=en" alt="shahzaddmajid12" /></p>
