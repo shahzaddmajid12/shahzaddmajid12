@@ -25,47 +25,45 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <table align="center">
   <tr>
     <!-- ConnectCare -->
-    <td align="center" width="300px">
-      <a href="https://www.connectcaretrans.com/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
-        <ul align="left">
-          <li>Non-Emergency Medical Transportation</li>
-          <li>Developed from scratch</li>
-          <li>Ongoing in Chicago</li>
-          <li>Real-time tracking & payment integration</li>
-          <li>1900+ rides completed</li>
-          <li>5000+ clients</li>
-        </ul>
+    <td align="left" width="320">
+      <a href="https://www.connectcaretrans.com/" target="_blank">
+        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"><br>
+        <strong>ConnectCare</strong><br>
+        • Non-Emergency Medical Transportation<br>
+        • Developed from scratch<br>
+        • Ongoing in Chicago<br>
+        • Real-time tracking & payment integration<br>
+        • 1900+ rides completed<br>
+        • 5000+ clients
       </a>
     </td>
 
     <!-- RiyoWork -->
-    <td align="center" width="300px">
-      <a href="https://riyowork.com/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
-        <ul align="left">
-          <li>Complete Employee Management System</li>
-          <li>Developed core features & UI</li>
-          <li>Real-time collaboration tools</li>
-          <li>Ongoing improvements</li>
-        </ul>
+    <td align="left" width="320">
+      <a href="https://riyowork.com/" target="_blank">
+        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"><br>
+        <strong>RiyoWork</strong><br>
+        • Complete Employee Management System<br>
+        • Developed core features & UI<br>
+        • Real-time collaboration tools<br>
+        • Ongoing improvements
       </a>
     </td>
 
     <!-- ShaikhSilk -->
-    <td align="center" width="300px">
-      <a href="https://shaikhsilk.com/" target="_blank" style="text-decoration: none; color: inherit;">
-        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="100" height="100"/>
-        <ul align="left">
-          <li>Shopify E-commerce Store</li>
-          <li>Custom product catalog & design</li>
-        </ul>
+    <td align="left" width="320">
+      <a href="https://shaikhsilk.com/" target="_blank">
+        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="100" height="100"><br>
+        <strong>ShaikhSilk</strong><br>
+        • Shopify E-commerce Store<br>
+        • Custom product catalog & design
       </a>
     </td>
   </tr>
 </table>
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
+
 
 
 ---
