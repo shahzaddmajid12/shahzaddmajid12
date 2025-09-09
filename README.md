@@ -129,43 +129,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <br clear="both">
 
 <div align="center">
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" 
-    height="150" 
-    alt="GitHub Stats"  
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaddmajid12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" 
-    height="150" 
-    alt="Top Languages"  
-  />
-
-  <!-- Streak Stats -->
-  <img 
-    src="https://streak-stats.demolab.com?user=shahzaddmajid12&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" 
-    height="150" 
-    alt="GitHub Streak"  
-  />
-
-  <!-- Contribution Graph -->
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaddmajid12&bg_color=000000&color=00f9ff&line=00f9ff&point=ffffff&area=true&hide_border=true&radius=16&order=5" 
-    height="300" 
-    alt="GitHub Activity Graph"  
-  />
-</div>
-
-
-<br clear="both">
-
-<h2 align="center"> 📈 My GitHub Insights 📊</h2>
-
-<br clear="both">
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzaddmajid12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=discord_old_blurple&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=shahzaddmajid12&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3&card_width=800" height="150" alt="streak graph"  />
