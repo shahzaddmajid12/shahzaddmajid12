@@ -20,7 +20,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 ---
 
-card didnt create back to table on every td on a link
+
 <h2 align="center"> 🚀 Portfolio & Work </h2>
 
 <table align="center">
@@ -28,7 +28,7 @@ card didnt create back to table on every td on a link
     <td align="center" width="300px">
       <a href="https://www.connectcaretrans.com/" target="_blank">
         <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
-        <h4>ConnectCare</h4>
+<!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>Non-Emergency Medical Transportation</li>
           <li>Developed from scratch</li>
@@ -42,7 +42,7 @@ card didnt create back to table on every td on a link
     <td align="center" width="300px">
       <a href="https://riyowork.com/" target="_blank">
         <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
-        <h4>RiyoWork</h4>
+<!--         <h4>RiyoWork</h4> -->
         <ul align="left">
           <li>Complete Employee Management System</li>
           <li>Developed core features & UI</li>
@@ -54,12 +54,11 @@ card didnt create back to table on every td on a link
     <td align="center" width="300px">
       <a href="https://shaikhsilk.com/" target="_blank">
         <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="RiyoWork" width="100" height="100"/>
-        <h4>RiyoWork</h4>
+<!--         <h4>RiyoWork</h4> -->
         <ul align="left">
-          <li>Complete Employee Management System</li>
-          <li>Developed core features & UI</li>
-          <li>Real-time collaboration tools</li>
-          <li>Ongoing improvements</li>
+          <li>Shopify</li>
+          <li>E-commerce Store</li>
+          
         </ul>
       </a>
     </td>
