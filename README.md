@@ -81,27 +81,32 @@
 
 ---
 
-## 📈 My GitHub Insights 📊  
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&show_icons=true&locale=en" alt="shahzaddmajid12" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzadmajid12&show_icons=true&theme=default&locale=en" alt="GitHub Stats" height="160"/>
-</p>
+## 📊 GitHub Insights  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahzadmajid12&show_icons=true&layout=compact&theme=default" alt="Top Languages" height="160"/>
+  <!-- GitHub Stats -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=shahzaddmajid12&show_icons=true&locale=en&theme=github_dark" 
+    alt="GitHub Stats" 
+    height="165" 
+  />
+  
+  <!-- Streak Stats -->
+  <img 
+    src="https://streak-stats.demolab.com?user=shahzaddmajid12&theme=github-dark&hide_border=false" 
+    alt="GitHub Streak" 
+    height="165" 
+  />
 </p>
 
+<!-- Contribution Graph -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shahzadmajid12&theme=default&hide_border=false" alt="GitHub Streak" height="160"/>
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=shahzaddmajid12&theme=github-compact" 
+    alt="GitHub Contribution Graph" 
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-contribution-activity-graph.vercel.app/graph?username=shahzadmajid12&theme=github" alt="Contribution Graph"/>
-</p>
- -->
 ---
 
 ## 🤝 Connect With Me  
