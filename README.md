@@ -8,16 +8,55 @@
 
 ---
 
-## 🌟 Assalam U Alaikum and Hello, Welcome to my profile! 👋  
+## Assalam U Alaikum and Hello, Welcome! 🌟  
 
-### I'm **Shahzad Majid** ✍
+### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | AI & Automation Explorer  
 
-🔹 **Software Engineer | Full Stack Developer**  
-🔹 Specializing in **Flutter, PHP, Python, AI, and Data Science**  
-🔹 Passionate about **Islamic Software Development, AI Research, and Open Source**  
+With over **5 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
+My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
+- 📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzadmajid12?tab=repositories)
+---
 
-📌 **Portfolio:**
-📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzadmajid12?tab=repositories)  
+### 💡 What I Do
+- 🚀 Build and maintain **internal web apps** for SMEs and startups.  
+- 🔗 Integrate **dynamic data flows** using Node.js and MongoDB.  
+- 📊 Develop **custom dashboards** and reusable **UX components**.  
+- 🗺️ Design complex **map-based interfaces** with Google Maps API.  
+- 🔐 Implement **role-based permissions**, **admin modals**, and interactive UI flows.  
+- 📑 Deliver robust **Excel & PDF export** features for reporting.  
+- 🤖 Explore **Agentic AI systems**, automation with **n8n** & **Salesforce Work.com**.  
+- 💬 Automate client communication using **ManyChat** & AI-driven email flows.  
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+**Frontend:**  
+React.js · JavaScript (ES6+) · HTML5 · CSS3 · Tailwind · Bootstrap · Redux · Tooltips · Modals  
+
+**Backend:**  
+Node.js · Express.js · REST APIs · JWT Auth · Bcrypt · Mongoose  
+
+**Database:**  
+MongoDB · Aggregation Pipelines · Schemas · Indexing  
+
+**Maps & Location:**  
+Google Maps API (Markers, Polylines, Directions, Tooltips, Layers)  
+
+**Dev Tools & Others:**  
+Agile · AWS · GraphQL · Payment Gateway Integration · WebSocket · Redux · Git · Agora · JWT Authentication · UI Optimization · Manual & Functional Testing · Slack · ClickUp · JIRA  
+
+**No-Code Platforms:**  
+Odoo ERP & POS modules · Shopify  
+
+**Exploring:**  
+Agentic AI · n8n · Salesforce Work.com  
+
+---
+
+### 📂 Portfolio & Work
+- 📌 **Portfolio:** Coming Soon    
+
 
 ---
 
