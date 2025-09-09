@@ -18,7 +18,7 @@
 
 <br clear="both">
 
-## 💻 Professional Skills  
+<h2 align="center"> 💻 Professional Skills </h2>
 
 <p align="center">
   <!-- Frameworks & Libraries -->
