@@ -63,15 +63,9 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   </tr>
 </table>
  <a href="https://riyowork.com/" target="_blank">
-        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
-<!--         <h4>RiyoWork</h4> -->
-        <ul align="left">
-          <li>Complete Employee Management System</li>
-          <li>Developed core features & UI</li>
-          <li>Real-time collaboration tools</li>
-          <li>Ongoing improvements</li>
-        </ul>
-      </a>
+    <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
+      <h5>RiyoWork - An Employee Management System</h5>
+  </a>
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
 
