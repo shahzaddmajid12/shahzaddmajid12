@@ -1,4 +1,4 @@
-<div align="center">
+<img width="167" height="120" alt="image" src="https://github.com/user-attachments/assets/fac6a015-6750-47c7-a4fe-44b565bd46e4" /><div align="center">
   <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGKaqDNgibzqw/profile-displaybackgroundimage-shrink_350_1400/B4DZflZSMhH4AY-/0/1751900300862?e=1759968000&v=beta&t=XPS3wT1Pu7JlLHL4UxunV4WMtZuYofjlDpYEIKYmJJw"  />
 </div>
 
@@ -51,13 +51,23 @@ card didnt create back to table on every td on a link
         </ul>
       </a>
     </td>
+    <td align="center" width="300px">
+      <a href="https://shaikhsilk.com/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a78e8768-573f-4aa8-842e-f1dd798d40e3" alt="Shaikh Silk" width="100" height="100"/>
+        <h4>Shailk Silk</h4>
+        <ul align="left">
+          <li>Shopify Store</li>
+          <li>E-commerce Platform</li>
+          
+        </ul>
+      </a>
+    </td>
   </tr>
 </table>
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
 
 ---
-
 
 <br clear="both">
 
