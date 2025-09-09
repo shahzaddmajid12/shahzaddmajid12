@@ -24,7 +24,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <p align="center">
 <a href="https://www.connectcaretrans.com/"><img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="Redux" width="100" height="100"/></a>
 </p>
-  # I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | AI & Automation Explorer 
+  <h5 align="center"> I will share more links soon </h5> 
 
 ---
 
