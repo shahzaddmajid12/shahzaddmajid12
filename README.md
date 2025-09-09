@@ -20,6 +20,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 ---
 
+
 <h2 align="center"> 🚀 Portfolio & Work </h2>
 
 <table align="center">
@@ -55,7 +56,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 </table>
 
 <h5 align="center">✨ More project links coming soon ✨</h5>
-
 
 
 ---
