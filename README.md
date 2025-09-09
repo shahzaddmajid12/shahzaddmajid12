@@ -30,8 +30,10 @@ card didnt create back to table on every td on a link
         <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
         <h4>ConnectCare</h4>
         <ul align="left">
+          <li>Non-Emergency Medical Transportation</li>
           <li>Developed from scratch</li>
           <li>Ongoing in Chicago</li>
+          <li>Real Time tracking and payment integration</li>
           <li>1900+ rides completed</li>
           <li>5000+ clients</li>
         </ul>
