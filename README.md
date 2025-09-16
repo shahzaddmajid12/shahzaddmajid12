@@ -10,7 +10,7 @@
 
 ## Assalam U Alaikum and Hello, Welcome! 🌟  
 
-### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | Learning AI & AI agent & Agentic Workflow  
+### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | Working on AI & AI agent & Agentic Workflow  
 
 With over **5 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
