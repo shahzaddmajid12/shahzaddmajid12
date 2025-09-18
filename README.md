@@ -120,97 +120,62 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <a href="https://www.chartjs.org/"><img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="50" height="50"/></a>
 </p>
 
-<br clear="both">
-
 <h2 align="center">💻 Professional Skills</h2>
 
-<style>
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(100px, 1fr));
-    gap: 15px;
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 20px;
-  }
-
-  .skill-box {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    border: 2px solid #ccc;
-    border-radius: 10px;
-    padding: 10px;
-    transition: 0.3s;
-    background-color: #f9f9f9;
-  }
-
-  .skill-box:hover {
-    border-color: #007bff;
-    background-color: #e6f0ff;
-    transform: scale(1.05);
-  }
-
-  .skill-box img {
-    width: 50px;
-    height: 50px;
-    object-fit: contain;
-  }
-
-  .skills-grid a {
-    text-decoration: none;
-  }
-</style>
-
-<div class="skills-grid">
-  <!-- Frameworks & Libraries -->
-  <a href="https://reactjs.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" /></a>
-  <a href="https://redux.js.org" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" /></a>
-  <a href="https://angular.io" class="skill-box"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" /></a>
-  <a href="https://angular.io" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="AngularJS" /></a>
-  <a href="https://vuejs.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" /></a>
-  <a href="https://flutter.dev" class="skill-box"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" /></a>
-  <a href="https://dart.dev" class="skill-box"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" /></a>
-  <a href="https://nestjs.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" /></a>
-  <a href="https://expressjs.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
-
-  <!-- Languages -->
-  <a href="https://www.python.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></a>
-  <a href="https://www.oracle.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" /></a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" /></a>
-  <a href="https://www.postgresql.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" /></a>
-
-  <!-- Cloud & Hosting -->
-  <a href="https://aws.amazon.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" /></a>
-  <a href="https://aws.amazon.com/amplify/" class="skill-box"><img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="Amplify" /></a>
-  <a href="https://firebase.google.com/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /></a>
-  <a href="https://heroku.com" class="skill-box"><img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" /></a>
-
-  <!-- UI / Design -->
-  <a href="https://getbootstrap.com/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" /></a>
-  <a href="https://materializecss.com/" class="skill-box"><img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="Materialize" /></a>
-  <a href="https://tailwindcss.com/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" /></a>
-  <a href="https://www.figma.com/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" /></a>
-
-  <!-- Data Science / ML -->
-  <a href="https://pandas.pydata.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" /></a>
-  <a href="https://seaborn.pydata.org/" class="skill-box"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" /></a>
-  <a href="https://pytorch.org/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" /></a>
-  <a href="https://www.tensorflow.org/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" /></a>
-  <a href="https://opencv.org/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" /></a>
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></a>
-  <a href="https://graphql.org/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" /></a>
-  <a href="https://postman.com/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
-  <a href="https://webpack.js.org/" class="skill-box"><img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="Webpack" /></a>
-  <a href="https://babeljs.io/" class="skill-box"><img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" /></a>
-  <a href="https://www.chartjs.org/" class="skill-box"><img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" /></a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="100">
+      <a href="https://reactjs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="50" height="50" alt="React" />
+        <br><sub><b>React</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://redux.js.org">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50" alt="Redux" />
+        <br><sub><b>Redux</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://angular.io">
+        <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50" alt="Angular" />
+        <br><sub><b>Angular</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://vuejs.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="50" height="50" alt="Vue.js" />
+        <br><sub><b>Vue</b></sub>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://flutter.dev">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50" height="50" alt="Flutter" />
+        <br><sub><b>Flutter</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://dart.dev">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50" height="50" alt="Dart" />
+        <br><sub><b>Dart</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+        <br><sub><b>JavaScript</b></sub>
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.python.org/">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+        <br><sub><b>Python</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
