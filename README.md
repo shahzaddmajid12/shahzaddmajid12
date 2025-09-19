@@ -77,6 +77,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 <h2 align="center"> 💻 Professional Skills </h2>
 
+ <p align="center">[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)]
 <p align="center">
   <!-- Frameworks & Libraries -->
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
