@@ -80,6 +80,10 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
  
 <p align="center">
   <!-- Frameworks & Libraries -->
+  <div style="display: flex; align-items: center; gap: 6px; background-color: #20232a; color: #61dafb; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" alt="React" />
+    React
+  </div>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/></a>
   <a href="https://redux.js.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/></a>
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="50" height="50"/></a>
