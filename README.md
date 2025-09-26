@@ -144,7 +144,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   </tr>
 </table>
 
-
 ---
 
 <br clear="both">
