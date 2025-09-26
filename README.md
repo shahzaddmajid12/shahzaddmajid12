@@ -121,48 +121,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <a href="https://www.chartjs.org/"><img src="https://www.chartjs.org/media/logo-title.svg" alt="ChartJS" width="50" height="50"/></a>
 </p>
 
-<h2 align="center">💻 Tech Stack & Skills</h2>
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-
-  <!-- React -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #20232a; color: #61dafb; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="20" height="20" alt="React" />
-    React
-  </div>
-
-  <!-- Next.js -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #000000; color: #ffffff; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="20" height="20" alt="Next.js" />
-    Next.js
-  </div>
-
-  <!-- Node.js -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #3c873a; color: #ffffff; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="20" height="20" alt="Node.js" />
-    Node.js
-  </div>
-
-  <!-- MongoDB -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #13aa52; color: #ffffff; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="20" height="20" alt="MongoDB" />
-    MongoDB
-  </div>
-
-  <!-- Tailwind CSS -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #38bdf8; color: #0f172a; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="20" height="20" alt="Tailwind CSS" />
-    Tailwind
-  </div>
-
-  <!-- TypeScript -->
-  <div style="display: flex; align-items: center; gap: 6px; background-color: #3178c6; color: #ffffff; padding: 6px 12px; border-radius: 9999px; font-weight: 500;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20" height="20" alt="TypeScript" />
-    TypeScript
-  </div>
-
-</div>
-
 ---
 
 <br clear="both">
