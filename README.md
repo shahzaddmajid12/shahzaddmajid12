@@ -121,7 +121,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <a href="https://graphql.org/"><img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></a>
   <a href="https://postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
   <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /></a>
-  <a href="https://babeljs.io/"><img src="https://img.shields.io/badge/Babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black" /></a>
   <a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /></a>
 
 </p>
