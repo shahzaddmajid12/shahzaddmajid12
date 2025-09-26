@@ -100,7 +100,6 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
   <!-- Cloud & Hosting -->
   <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-  <a href="https://aws.amazon.com/amplify/"><img src="https://img.shields.io/badge/AWS%20Amplify-FF9900?style=for-the-badge&logo=awsamplify&logoColor=white" /></a>
   <a href="https://firebase.google.com/"><img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase" /></a>
   <a href="https://heroku.com"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" /></a>
 
