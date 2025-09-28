@@ -68,10 +68,9 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
       </a>
       <td width="400px">
       <a href="https://the-fyt.vercel.app/" target="_blank">
-        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="150" height="150"/>
-<!--         <h4>The FYT</h4> -->
+        <img src="" alt="theFYT" width="150" height="150"/>
         <ul align="left">
-          <li>theFYT2</li>
+          <li>theFYT</li>
         </ul>
       </a>
     </td>
@@ -79,7 +78,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   </tr>
 </table>
 
-<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, thfyp, 3d Walkthrough Real Estate, Muntazim, Patient Intake, ERP System, Cryptocurrency Data & Stats) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, 3d Walkthrough Real Estate, Muntazim, Patient Intake, ERP System, Cryptocurrency Data & Stats) ✨</h5>
 
 ---
 
