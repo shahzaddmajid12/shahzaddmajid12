@@ -68,7 +68,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
       </a>
       <td width="400px">
       <a href="https://the-fyt.vercel.app/" target="_blank">
-        <img src="" alt="theFYT" width="150" height="150"/>
+    <!--     <img src="" alt="theFYT" width="150" height="150"/> -->
         <ul align="left">
           <li>theFYT</li>
         </ul>
