@@ -31,8 +31,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>Non-Emergency Medical Transportation</li>
-          <li>Ongoing in Chicago, going live in Minnesota this week</li>
           <li>Built from scratch</li>
+          <li>Ongoing in Chicago, going live in Minnesota this week</li>
           <li>Handles real-time & advance ride bookings for specialized services</li>
           <li>Driver assignments, trip tracking, and automated reporting</li>
           <li>Automated email notifications upon ride creation</li>
