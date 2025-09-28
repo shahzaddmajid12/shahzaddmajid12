@@ -79,7 +79,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 <p align="center">
 
-  <!-- Frameworks & Libraries -->
+  <!-- Frameworks & Libraries 
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
   <a href="https://redux.js.org"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" /></a>
   <a href="https://angular.io"><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /></a>
@@ -123,18 +123,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <a href="https://postman.com/"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
   <a href="https://webpack.js.org/"><img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" /></a>
   <a href="https://www.chartjs.org/"><img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" /></a>
-
+-->
 </p>
-
-| **Programming_Languages**                           | **Frontend_Tools**                                      | **Backend_Tools**                                       | **Data_Related**                                      | **IDEs/Softwares**                                           | **Other_Tools**                                    |
-| --------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | -------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------- |
-| <p align="center">![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)</p> | <p align="center">![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)</p> | | <p align="center">![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=postgresql&logoColor=ffffff)</p>|| |
-| <p align="center">![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)</p> | <p align="center">![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)</p> | | <p align="center">![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=ffffff)</p>||<p align="center">![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)</p>|
-| <p align="center">![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)</p>| <p align="center">![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)</p>| <p align="center">![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)</p>| <p align="center">![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=ffffff)</p>||<p align="center">![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)</p>|
-| | <p align="center">![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=white)</p>| | ||
-| | <p align="center">![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)</p>| <p align="center">![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)</p>| | |<p align="center">![Ubuntu](http://img.shields.io/badge/-Ubuntu-A81D33?style=flat-square&logo=ubuntu&logoColor=ffffff)</p>|
-| | <p align="center">![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)</p>| | | | |
-| | <p align="center">![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)</p> || <p align="center">![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat-square&logo=json&logoColor=white)</p>| |<p align="center">![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)</p>|
 
 
 | **Programming_Languages** | **Frontend_Tools (1)** | **Frontend_Tools (2)** | **Backend_Tools** | **Data_Related** | **Other_Tools** |
