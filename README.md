@@ -40,7 +40,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
           <li>WebSockets for live chat and notifications</li>
           <li>Squareup payment gateway integration</li>
           <li>Actively used by <b>5,000+ clients</b></li>
-          <li><b>19,000+ rides</b> completed</li>
+          <li><b>20,000+ rides</b> completed</li>
         </ul>
       </a>
     </td>
