@@ -1,5 +1,5 @@
 
-<img src="https://raw.githubusercontent.com/shahzadmajid12/shahzadmajid12/refs/heads/main/images/cover.png" />
+<img src="https://raw.githubusercontent.com/shahzaddmajid12/shahzaddmajid12/refs/heads/main/images/cover.png" />
 </div>
 
 <p align="center"> 
