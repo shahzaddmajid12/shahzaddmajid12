@@ -1,5 +1,5 @@
 
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQGKaqDNgibzqw/profile-displaybackgroundimage-shrink_350_1400/B4DZflZSMhH4AY-/0/1751900300862?e=1759968000&v=beta&t=XPS3wT1Pu7JlLHL4UxunV4WMtZuYofjlDpYEIKYmJJw"  />
+<img src="https://raw.githubusercontent.com/shahzadmajid12/shahzadmajid12/refs/heads/main/images/cover.png" />
 </div>
 
 <p align="center"> 
