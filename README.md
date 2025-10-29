@@ -30,15 +30,15 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="150" height="150"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
-          <li>Non-Emergency Medical Transportation</li>
+          <li>A Non-Emergency Medical Transportation platform</li>
           <li>Built from scratch</li>
-          <li>Ongoing in Chicago, going live in Minnesota this week</li>
-          <li>Handles real-time & advance ride bookings for specialized services</li>
-          <li>Driver assignments, trip tracking, and automated reporting</li>
-          <li>Automated email notifications upon ride creation</li>
-          <li>Agora for real-time in-app calling</li>
-          <li>WebSockets for live chat and notifications</li>
-          <li>Squareup payment gateway integration</li>
+          <li>Currently operating in Chicago; launching soon in Minnesota</li>
+          <li>Supports real-time and scheduled ride bookings for specialized services</li>
+          <li>Includes driver assignments, trip tracking, and automated reporting and more</li>
+          <li>Sends automated email notifications upon ride creation</li>
+          <li>Integrated with Agora for real-time in-app calling</li>
+          <li>Uses WebSockets for live chat and instant notifications</li>
+          <li>Integrated with Square payment gateway</li>
           <li>Actively used by <b>5,000+ clients</b></li>
           <li><b>20,000+ rides</b> completed</li>
         </ul>
