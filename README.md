@@ -98,25 +98,11 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         </ul>
       </a>
     </td>
-    <td width="400px" align="center">
-  <a href="https://the-fyt.vercel.app/" target="_blank">
-    <img 
-      src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAACF0lEQVR4AdWXAURDQRjH16qaRlURI1JTbaioUhUFAaX2FtAKEiSCQBIBkIEAaqMAJCoARAAbWAEAIG1Ai9Ve//6frinrbXuzdnr8Nu7u7vvfd3fffeco9cPqahsMI4Rg8IT/MZIkWWKyLEXikLqVlTVp66jUxwF9HDhKnmkMJZJm+4j0Ld/w+rqbA4VJhqBMMiQsY9kzbhj9JEFQIRKkvzTjweA4eZSOFYVjytjFZ27fuD0RtGG95srtf0zi1z2hNhyqRDj/qKndXiUyYvP77CMEVYWx5XuES2sQ8Cy2xf1rUqCJkEPFdmiBtkVAXKMHYiIgZdXgwO/HZk/PD6Kjozjw+bDV24unhQW8BgLYGxjAtteLs7GxvPa7fX14txaQlBNgWgnwNzfD63bjkEK+uJmexv38PDwuF2Y6OrDR3Q1XbS0uJydxNzcHaTPR3g5nTQ32KfRocLCQgKxDfgoJaK2vF0M5Hmhc6kREZ2MjGpxOXE1N/ei3Q2/UsfxlebnYEpgiIFlIwFBLCy44uy9Si4u5+iWPB11NTTANozwBXH4RELNqcM41Fdda1V9z5qcjI3kuvp2dxfHwMN4CgWIC4vqPoQQDbQIYBD9Dscr3qkw6l7zKxaDB/RHt17HWhER7SqYlKSUqKdWQlhOVlmt8mPybp9lvGXOEpO3keyRq93Fa/HnO0Cnxm8RVImOSLEmSmLpXQnae5x90i1v0el/XVgAAAABJRU5ErkJggg==" 
-      alt="theFYT"
-      width="120"
-      height="120"
-    />
-    <ul align="left">
-      <li><strong>theFYT</strong></li>
-    </ul>
-  </a>
-</td>
-
-    
+       
   </tr>
 </table>
 
-<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System, thai-food) ✨</h5>
 
 ---
 
