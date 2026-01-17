@@ -58,14 +58,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     </td>
     <td width="400px">
       <a href="https://kalotiadevelopement.vercel.app/" target="_blank">
-         <img src="https://img1.wsimg.com/isteam/ip/4c30aab7-6bf8-4854-8492-f233c8e77083/kolotia-logo_500x198-7bd93e4.png/:/rs=w:194,h:77,cg:true,m/cr=w:194,h:77/qt=q:100/ll" alt="ShaikhSilk" width="100" height="100"/>
+         <img src="https://img1.wsimg.com/isteam/ip/4c30aab7-6bf8-4854-8492-f233c8e77083/kolotia-logo_500x198-7bd93e4.png/:/rs=w:194,h:77,cg:true,m/cr=w:194,h:77/qt=q:100/ll" alt="kalotia developement" width="100" height="100"/>
         <ul align="left">
           <li>Kalotia Developement</li>
         </ul>
       </a>
       <td width="400px">
       <a href="https://www.xtokens.io/" target="_blank">
-      <img src="https://www.xtokens.io/images/xrp-text-logo.png" alt="theFYT" width="70" height="70"/> 
+      <img src="https://www.xtokens.io/images/xrp-text-logo.png" alt="xtokens" width="100" height="100"/> 
         <ul align="left">
           <li>xtokens.io</li>
         </ul>
@@ -75,8 +75,8 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   </tr>
     <tr>
     <td width="400px">
-      <a href="https://https://www.aimstakamol.pk/" target="_blank">
-        <!-- <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="150" height="150"/> -->
+      <a href="https://www.aimstakamol.pk/" target="_blank">
+        <img src="https://www.aimstakamol.pk/images/logo.png" alt="AIMS" width="100" height="100"/>
         <ul align="left">
           <li>AIMS Takamol</li>
         </ul>
@@ -85,7 +85,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     </td>
     <td width="400px">
       <a href="https://www.shaikhsilk.com/" target="_blank">
-        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="50" height="50"/>
+        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="60" height="60"/>
         <ul align="left">
           <li>Shaikh Silk - Shopify E-commerce Store</li>
         </ul>
@@ -102,7 +102,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   </tr>
 </table>
 
-<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, 3d Walkthrough Real Estate, Muntazim, Patient Intake, ERP System, Cryptocurrency Data & Stats) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System) ✨</h5>
 
 ---
 
