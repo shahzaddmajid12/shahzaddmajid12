@@ -49,7 +49,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <tr>
     <td width="400px">
       <a href="https://riyowork.com/" target="_blank">
-        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="150" height="150"/>
+        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="100" height="100"/>
         <ul align="left">
           <li>RiyoWork - Employee Management System</li>
         </ul>
