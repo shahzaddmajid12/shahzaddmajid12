@@ -76,7 +76,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     <tr>
     <td width="400px">
       <a href="https://www.aimstakamol.pk/" target="_blank">
-        <img src="https://www.aimstakamol.pk/images/logo.png" alt="AIMS" width="100" height="100"/>
+        <img src="https://www.aimstakamol.pk/images/logo.png" alt="AIMS" width="60" height="60"/>
         <ul align="left">
           <li>AIMS Takamol</li>
         </ul>
