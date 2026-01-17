@@ -30,8 +30,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
         <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="150" height="150"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
-          <li>A Non-Emergency Medical Transportation platform</li>
-          <li>Built from scratch</li>
+          <li>A Non-Emergency Medical Transportation Platform</li>
           <li>Currently operating in Chicago; launching soon in Minnesota</li>
           <li>Supports real-time and scheduled ride bookings for specialized services</li>
           <li>Includes driver assignments, trip tracking, and automated reporting and more</li>
