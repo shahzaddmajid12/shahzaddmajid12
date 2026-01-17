@@ -85,7 +85,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     </td>
     <td width="400px">
       <a href="https://www.shaikhsilk.com/" target="_blank">
-        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="90" height="90"/>
+        <img src="https://www.shaikhsilk.com/cdn/shop/files/WhatsApp_Image_2025-07-10_at_19.58.51_ccae663d.jpg?height=120&v=1752162715" alt="ShaikhSilk" width="50" height="50"/>
         <ul align="left">
           <li>Shaikh Silk - Shopify E-commerce Store</li>
         </ul>
