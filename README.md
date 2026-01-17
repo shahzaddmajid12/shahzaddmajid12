@@ -58,14 +58,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
     </td>
     <td width="400px">
       <a href="https://kalotiadevelopement.vercel.app/" target="_blank">
-         <img src="https://img1.wsimg.com/isteam/ip/4c30aab7-6bf8-4854-8492-f233c8e77083/kolotia-logo_500x198-7bd93e4.png/:/rs=w:194,h:77,cg:true,m/cr=w:194,h:77/qt=q:100/ll" alt="ShaikhSilk" width="120" height="120"/>
+         <img src="https://img1.wsimg.com/isteam/ip/4c30aab7-6bf8-4854-8492-f233c8e77083/kolotia-logo_500x198-7bd93e4.png/:/rs=w:194,h:77,cg:true,m/cr=w:194,h:77/qt=q:100/ll" alt="ShaikhSilk" width="100" height="100"/>
         <ul align="left">
           <li>Kalotia Developement</li>
         </ul>
       </a>
       <td width="400px">
-      <a href="https://http://xtokens.io/" target="_blank">
-    <!--     <img src="" alt="theFYT" width="150" height="150"/> -->
+      <a href="https://www.xtokens.io/" target="_blank">
+      <img src="https://www.xtokens.io/images/xrp-text-logo.png" alt="theFYT" width="70" height="70"/> 
         <ul align="left">
           <li>xtokens.io</li>
         </ul>
