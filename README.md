@@ -27,7 +27,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <tr>
     <td align="center" width="800px">
       <a href="https://www.connectcaretrans.com/" target="_blank">
-        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="150" height="150"/>
+        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="100" height="100"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>A Non-Emergency Medical Transportation Platform</li>
