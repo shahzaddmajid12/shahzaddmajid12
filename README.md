@@ -109,6 +109,28 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <br clear="both">
 
 <h2 align="center"> 💻 Professional Skills </h2>
+<!-- AI Engineering (Upgraded with Badges) -->
+
+<p align="center">
+
+  <!-- LLMs -->
+
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meta_AI-0467DF?style=flat-square&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/GLM_5.2-FF6F00?style=flat-square" />
+
+  <br/>
+
+  <!-- AI Dev Tools -->
+
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-1E1E1E?style=flat-square" />
+  <img src="https://img.shields.io/badge/v0-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Antigravity-FF4088?style=flat-square" />
+
+</p>
 
 <p align="center">
 
