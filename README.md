@@ -8,7 +8,7 @@
 
 ---
 
-## Assalam U Alaikum and Hello, Welcome! 🌟  
+## Assalam-o-Alaikum and Hello, Welcome! 🌟  
 
 ### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | Working on ML/DL & AI agents & Workflow  
 
