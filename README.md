@@ -31,15 +31,13 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>A Non-Emergency Medical Transportation Platform</li>
-          <li>Currently operating in Chicago; launching soon in Minnesota</li>
           <li>Supports real-time and scheduled ride bookings for specialized services</li>
           <li>Includes driver assignments, trip tracking, and automated reporting and more</li>
           <li>Sends automated email notifications upon ride creation</li>
           <li>Integrated with Agora for real-time in-app calling</li>
           <li>Uses WebSockets for live chat and instant notifications</li>
           <li>Integrated with Square payment gateway</li>
-          <li>Actively used by <b>5,000+ clients</b></li>
-          <li><b>20,000+ rides</b> completed</li>
+          <li>Actively used by <b>5,000+ clients</b>, <b>20,000+ rides</b> completed</li>
         </ul>
       </a>
     </td>
