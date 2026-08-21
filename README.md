@@ -10,7 +10,7 @@
 
 ## Assalam-o-Alaikum and Hello, Welcome! 🌟  
 
-### I'm **Shahzad Majid** – Full Stack Developer | MERN Specialist | Working on ML/DL & AI agents & Workflow  
+### I'm **Shahzad Majid** – Software Engineer | Full Stack Developer | Also Working on AI agents & Workflow  
 
 With over **6 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
@@ -27,7 +27,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
   <tr>
     <td align="center" width="800px">
       <a href="https://www.connectcaretrans.com/" target="_blank">
-        <img src="https://connectcaretrans.net/static/media/login-logo2.5c941bfd3ae569821d01.png" alt="ConnectCare" width="200" height="100"/>
+        <img src="https://www.connectcaretrans.com/static/media/header-logo.3932d2abab3ee58c87d8.png" alt="ConnectCare" width="200" height="100"/>
 <!--         <h4>ConnectCare</h4> -->
         <ul align="left">
           <li>A Non-Emergency Medical Transportation Platform</li>
