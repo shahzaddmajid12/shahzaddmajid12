@@ -25,12 +25,13 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 | Project Name & Link | Description |
 |---|---|
+| **[System Decoding](https://www.systemdecoding.com/)** | Software house landing page. |
 | **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
 | **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional Real Estate Business Website, showcasing projects on pixel streaming walkthrough and detail of business services. |
 | **[RiyoWork (Chicago)](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
-| **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
-| **[AIMS Takamol](https://www.aimstakamol.pk/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
-| **[theFYT](https://the-fyt.vercel.app/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
+| **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Mustafa Shah Driving Takamol website from animation to development. |
+| **[AIMS Takamol](https://www.aimstakamol.pk/)** | AIMS Takamol center website. |
+| **[theFYT](https://the-fyt.vercel.app/)** | Finding viral trends and optimizing scripts, and transcripting video. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
 
 
