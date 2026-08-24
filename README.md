@@ -7,8 +7,9 @@
 </p>
 
 ---  
+## Shahzad Majid 🌟  
 
-### **Shahzad Majid** – Software Engineer | Full Stack Developer | Also Working on AI agents & Workflow  
+### Software Engineer | Full Stack Developer
 
 With over **6 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
@@ -23,14 +24,15 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 | Project Name & Link | Description |
 |---|---|
-| **[System Decoding](https://www.systemdecoding.com/)** | Software house landing page. |
+| **[System Decoding](https://www.systemdecoding.com/)** | Software business website using javascript and Framer components. |
 | **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
-| **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional Real Estate Business Website, showcasing projects on pixel streaming walkthrough and detail of business services. |
+| **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional real estate business website, showcasing projects through interactive Pixel Streaming walkthroughs and providing detailed information about the business and its services. |
 | **[RiyoWork (Chicago)](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
-| **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Mustafa Shah Driving Takamol website from animation to development. |
-| **[AIMS Takamol](https://www.aimstakamol.pk/)** | AIMS Takamol center website. |
-| **[theFYT](https://the-fyt.vercel.app/)** | Finding viral trends and optimizing scripts, and transcripting video. |
-| **[XTokens](https://www.xtokens.io/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
+| **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Driving school website developed from animation and design concepts through to implementation. |
+| **[AIMS Takamol](https://www.aimstakamol.pk/)** | Website for the AIMS Takamol center. |
+| **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
+| **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
+| **[Social Media App — Flutter](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
 
 
 <h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System, thai-food) ✨</h5>
