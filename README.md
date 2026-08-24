@@ -25,90 +25,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 | Project Name & Link | Description |
 |---|---|
-| **[ConnectCareTrans](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
-| **[Kalotia Development](https://new-kalotia-development.vercel.app/)** | Professional Real Estate Business Website, showcasing projects on pixel streaming walkthrough and detail of business services. |
-| **[RiyoWork](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
+| **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
+| **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional Real Estate Business Website, showcasing projects on pixel streaming walkthrough and detail of business services. |
+| **[RiyoWork (Chicago)](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
 | **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
 | **[AIMS Takamol](https://www.aimstakamol.pk/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
 | **[theFYT](https://the-fyt.vercel.app/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
 
-<table align="center">
-  <tr>
-    <td align="center" width="800px">
-      <a href="https://www.connectcaretrans.com/" target="_blank">
-        <img src="https://www.connectcaretrans.com/static/media/header-logo.3932d2abab3ee58c87d8.png" alt="ConnectCare" width="200" height="100"/>
-<!--         <h4>ConnectCare</h4> -->
-        <ul align="left">
-          <li>A Non-Emergency Medical Transportation Platform</li>
-          <li>Supports real-time and scheduled ride bookings for specialized services</li>
-          <li>Includes driver assignments, trip tracking, and automated reporting and more</li>
-          <li>Sends automated email notifications upon ride creation</li>
-          <li>Integrated with Agora for real-time in-app calling</li>
-          <li>Uses WebSockets for live chat and instant notifications</li>
-          <li>Integrated with Square payment gateway</li>
-          <li>Actively used by <b>5,000+ clients</b>, <b>20,000+ rides</b> completed</li>
-        </ul>
-      </a>
-    </td>
-  </tr>
-</table>
-<table align="center">
-  <tr>
-    <td width="400px">
-      <a href="https://riyowork.com/" target="_blank">
-        <img src="https://riyowork.com/static/media/logo.aee9c3a17666a569297d.png" alt="RiyoWork" width="60" height="60"/>
-        <ul align="left">
-          <li>RiyoWork - Employee Management System</li>
-        </ul>
-      </a>
-    </td>
-    </td>
-    <td width="400px">
-      <a href="https://new-kalotia-development.vercel.app/" target="_blank">
-         <img src="https://img1.wsimg.com/isteam/ip/4c30aab7-6bf8-4854-8492-f233c8e77083/kolotia-logo_500x198-7bd93e4.png/:/rs=w:194,h:77,cg:true,m/cr=w:194,h:77/qt=q:100/ll" alt="kalotia developement" width="60" height="60"/>
-        <ul align="left">
-          <li>Kalotia Developement</li>
-        </ul>
-      </a>
-      <td width="400px">
-      <a href="https://www.xtokens.io/" target="_blank">
-      <img src="https://www.xtokens.io/images/xrp-text-logo.png" alt="xtokens" width="60" height="60"/> 
-        <ul align="left">
-          <li>xtokens.io</li>
-        </ul>
-      </a>
-    </td>
-    
-  </tr>
-    <tr>
-    <td width="400px">
-      <a href="https://www.aimstakamol.pk/" target="_blank">
-        <img src="https://www.aimstakamol.pk/images/logo.png" alt="AIMS" width="60" height="60"/>
-        <ul align="left">
-          <li>AIMS Takamol</li>
-        </ul>
-      </a>
-    </td>
-    </td>
-    <td width="400px">
-      <a href="https://drivingtakamol.com/" target="_blank">
-      <!--   <img src="https://www.aimstakamol.pk/images/logo.png" alt="AIMS" width="60" height="60"/> --!>
-        <ul align="left">
-          <li>MS Driving Takamol</li>
-        </ul>
-      </a>
-      <td width="400px">
-      <a href="https://the-fyt.vercel.app/" target="_blank">
-    <!--     <img src="" alt="theFYT" width="150" height="150"/> -->
-        <ul align="left">
-          <li>theFYT</li>
-        </ul>
-      </a>
-    </td>
-       
-  </tr>
-</table>
 
 <h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System, thai-food) ✨</h5>
 
