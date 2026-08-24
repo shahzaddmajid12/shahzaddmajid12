@@ -44,7 +44,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[Muntazim]()** | Coming Soon. |
 | **[Sab Khelaao]()** | Coming Soon. |
 
-<h5 align="center">✨ Links to other projects coming soon: (patient registration system, Premura Corp marketing, gym app, B2B and B2C Apparel e-commerce, Carflix, immersive showroom, hairstylist portfolio, plumbing services, steel coating manufacturing, lighting fixtures, Jewelry Ecommerce Store, Rent Property landing page and management tool, LMS and more ) ✨</h5>
+<h5 align="center">✨ Links to other projects coming soon: (patient registration system, Premura Corp marketing, gym app, B2B and B2C Apparel e-commerce, Carflix, immersive showroom, hairstylist portfolio, plumbing services, steel coating manufacturing, lighting fixtures, Jewelry Ecommerce Store, Rent Property landing page and management tool, LMS, airforshare and more ) ✨</h5>
 ---
 
 <br clear="both">
