@@ -22,14 +22,16 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 
 
 <h2 align="center"> 🚀 Portfolio & Work </h2>
-## 🚀 Portfolio & Work
 
 | Project Name & Link | Description |
 |---|---|
 | **[ConnectCareTrans](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
-| **[RiyoWork](https://riyowork.com/)** | Employee management system designed to manage employees, workforce operations, and business processes. |
-| **[Kalotia Development](https://new-kalotia-development.vercel.app/)** | Professional business website providing a digital presence and showcasing development and business services. |
-| **[XTokens](https://www.xtokens.io/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
+| **[Kalotia Development](https://new-kalotia-development.vercel.app/)** | Professional Real Estate Business Website, showcasing projects on pixel streaming walkthrough and detail of business services. |
+| **[RiyoWork](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
+| **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
+| **[AIMS Takamol](https://www.aimstakamol.pk/)** | Web platform focused on digital assets and token-related services with a modern responsive interface. |
+| **[theFYT](https://the-fyt.vercel.app/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
+| **[XTokens](https://www.xtokens.io/)** | Blockchain project, wallet for XRPL and to buy XRP meme coins. |
 
 <table align="center">
   <tr>
