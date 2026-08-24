@@ -26,9 +26,9 @@ I’m passionate about building impactful products and aspire to found or contri
 | Project Name & Link | Description |
 |---|---|
 | **[System Decoding](https://www.systemdecoding.com/)** | Software business website using javascript and Framer components. |
-| **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
+| **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | SaaS - Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
 | **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional real estate business website, showcasing projects through interactive Pixel Streaming walkthroughs and providing detailed information about the business and its services. |
-| **[RiyoWork (Chicago)](https://riyowork.com/)** | Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
+| **[RiyoWork (Chicago)](https://riyowork.com/)** | SaaS -Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
 | **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Driving school website developed from animation and design concepts through to implementation. |
 | **[AIMS Takamol](https://www.aimstakamol.pk/)** | Website for the AIMS Takamol center. |
 | **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
@@ -37,7 +37,7 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Phatthai]()** | Coming Soon. |
-| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | Coming Soon. |
+| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS - Coming Soon. |
 | **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Coming Soon. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[AISaaSify]()** | Coming Soon. |
