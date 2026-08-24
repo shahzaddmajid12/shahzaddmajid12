@@ -6,11 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=shahzadmajid12&label=Profile%20views&color=0e75b6&style=flat" alt="shahzadmajid12" /> 
 </p>
 
----
+---  
 
-## Assalam-o-Alaikum and Hello, Welcome! 🌟  
-
-### I'm **Shahzad Majid** – Software Engineer | Full Stack Developer | Also Working on AI agents & Workflow  
+### **Shahzad Majid** – Software Engineer | Full Stack Developer | Also Working on AI agents & Workflow  
 
 With over **6 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
 My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
