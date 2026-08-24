@@ -11,7 +11,7 @@
 
 ### Software Engineer | Full Stack Developer
 
-With over **6 years+ of professional experience**, (including 4 years startups), specialize in building **responsive, scalable, and high-performance web applications and mobile apps** from concept to deployment. 
+With over **6 years+ of professional experience**, (including 4 years SaaS startups), specialize in building **responsive, scalable, and high-performance web applications and mobile apps** from concept to deployment. 
 I’m passionate about building impactful products and aspire to found or contribute to a **unicorn company**.
 
 <!--
