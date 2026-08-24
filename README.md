@@ -44,7 +44,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[AISaaSify]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
 
-<h5 align="center">✨ More project links coming soon: (Patient Intake, premura-corp, gym app) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (Patient Intake, premura-corp, gym app, ecom b2b, ecom b2c, carflix) ✨</h5>
 
 ---
 
