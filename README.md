@@ -11,8 +11,9 @@
 
 ### Software Engineer | Full Stack Developer
 
-With over **6 years of professional experience**, I specialize in building **responsive, scalable, and high-performance web applications** from concept to deployment.  
-My focus is on **transforming ideas into impactful digital solutions**, ensuring that every project not only meets but **exceeds expectations**.  
+With over **6 years+ of professional experience**, (including 4 years startups), specialize in building **responsive, scalable, and high-performance web applications and mobile apps** from concept to deployment. 
+I’m passionate about building impactful products and aspire to found or contribute to a **unicorn company**.
+
 <!--
 - 📌 **GitHub Repositories:** [Explore Now](https://github.com/shahzaddmajid12?tab=repositories)
 -->
