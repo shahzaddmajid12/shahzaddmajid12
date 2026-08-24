@@ -7,7 +7,7 @@
 </p>
 
 ---  
-## Shahzad Majid 🌟  
+## Shahzad Majid 
 
 ### Software Engineer | Full Stack Developer
 
