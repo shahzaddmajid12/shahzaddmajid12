@@ -36,13 +36,13 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Phatthai)]()** | Coming Soon. |
-| **[Drovi/Bitefoodly]()** | Coming Soon. |
-| **[Custom ERP]()** | Coming Soon. |
-| **[Muntazim]()** | Coming Soon. |
-| **[Sab Khelaao]()** | Coming Soon. |
+| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | Coming Soon. |
+| **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Coming Soon. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[AISaaSify]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
+| **[Muntazim]()** | Coming Soon. |
+| **[Sab Khelaao]()** | Coming Soon. |
 
 <h5 align="center">✨ More project links coming soon: (Patient Intake, premura-corp, gym app, ecom b2b, ecom b2c, carflix) ✨</h5>
 
