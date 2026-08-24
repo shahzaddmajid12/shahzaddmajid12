@@ -35,7 +35,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[Social Media App (Flutter)](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
-| **[Phatthai)]()** | Coming Soon. |
+| **[Phatthai]()** | Coming Soon. |
 | **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | Coming Soon. |
 | **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Coming Soon. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
@@ -44,8 +44,7 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[Muntazim]()** | Coming Soon. |
 | **[Sab Khelaao]()** | Coming Soon. |
 
-<h5 align="center">✨ More project links coming soon: (Patient Intake, premura-corp, gym app, ecom b2b, ecom b2c, carflix) ✨</h5>
-
+<h5 align="center">✨ Links to other projects coming soon: (patient registration system, Premura Corp marketing, gym app, B2B and B2C e-commerce, Carflix, immersive showroom, hairstylist portfolio, plumbing services, steel coating manufacturing, lighting fixtures) ✨</h5>
 ---
 
 <br clear="both">
