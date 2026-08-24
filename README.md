@@ -32,15 +32,19 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[AIMS Takamol](https://www.aimstakamol.pk/)** | Website for the AIMS Takamol center. |
 | **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
-| **[Social Media App — Flutter](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
+| **[Social Media App (Flutter)](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
-| **[Phatthai)]()** | Coming Soons. |
-| **[Drovi/Bitefoodly]()** | Coming Soons. |
-| **[Custom ERP]()** | Coming Soons. |
+| **[Phatthai)]()** | Coming Soon. |
+| **[Drovi/Bitefoodly]()** | Coming Soon. |
+| **[Custom ERP]()** | Coming Soon. |
+| **[Muntazim]()** | Coming Soon. |
+| **[Sab Khelaao]()** | Coming Soon. |
+| **[AI-CFO-Dashboard]()** | Coming Soon. |
+| **[AISaaSify]()** | Coming Soon. |
+| **[Havocloft]()** | Coming Soon. |
 
-
-<h5 align="center">✨ More project links coming soon: (aisaasify, Muntazim, Patient Intake, premura-corp, AI-CFO-Dashboard, gym app, havocloft) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (Patient Intake, premura-corp, gym app) ✨</h5>
 
 ---
 
