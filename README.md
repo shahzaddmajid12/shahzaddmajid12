@@ -33,9 +33,14 @@ My focus is on **transforming ideas into impactful digital solutions**, ensuring
 | **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Social Media App — Flutter](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
+| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
+| **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
+| **[Phatthai)]()** | Coming Soons. |
+| **[Drovi/Bitefoodly]()** | Coming Soons. |
+| **[Custom ERP]()** | Coming Soons. |
 
 
-<h5 align="center">✨ More project links coming soon: (Drovi/Bitefoodly, Muntazim, Patient Intake, ERP System, thai-food) ✨</h5>
+<h5 align="center">✨ More project links coming soon: (aisaasify, Muntazim, Patient Intake, premura-corp, AI-CFO-Dashboard, gym app, havocloft) ✨</h5>
 
 ---
 
