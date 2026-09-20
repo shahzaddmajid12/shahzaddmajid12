@@ -27,19 +27,19 @@ I’m passionate about building impactful products and aspire to found or contri
 |---|---|
 | **[System Decoding](https://www.systemdecoding.com/)** | Software business website using javascript and Framer components. |
 | **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | SaaS - Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
-| **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | Professional real estate business website, showcasing projects through interactive Pixel Streaming walkthroughs and providing detailed information about the business and its services. |
+| **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | NEW Professional real estate business website, showcasing projects through interactive Pixel Streaming walkthroughs and providing detailed information about the business and its services. |
 | **[RiyoWork (Chicago)](https://riyowork.com/)** | SaaS -Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
 | **[MS Driving Takamol](https://www.msdrivingtakamol.com/)** | Driving school website developed from animation and design concepts through to implementation. |
 | **[AIMS Takamol](https://www.aimstakamol.pk/)** | Website for the AIMS Takamol center. |
 | **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Social Media App (Flutter)](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
-| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS - Demo of delivery system, all MVP modules are avaiable. |
 | **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Demo of ERP Business. |
-| **[Conceptual Steel Shutter Open]()** | Website Starts with close shutter that open automatically there's a remote present there click to open/close the shutter and have a unique experience, design for sale. |
-| **[Conceptual Saloon Entry]()** | Website Starts with close saloon's door that open on scroll down and close on scroll up and have a unique experience, design for sale. |
-| **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Website open with dark background there's a button present there click to open the lights and have a unique experience, design for sale. |
+| **[Conceptual Steel Shutter Open](https://conceptual-steel-maintenance-shutte.vercel.app/)** | Website Starts with close shutter that open automatically there's a remote present there click to open/close the shutter and have a unique experience, design for sale, custom change per requirement |
+| **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Website Starts with close saloon's door that open on scroll down and close on scroll up and have a unique experience, design for sale, custom change per requirement. |
+| **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Website open with dark background there's a button present there click to open the lights and have a unique experience, design for sale, custom change per requirement |
+| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[AISaaSify]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
