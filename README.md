@@ -35,10 +35,11 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Social Media App (Flutter)](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
-| **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
-| **[Phatthai]()** | Coming Soon. |
-| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS - Coming Soon. |
-| **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Coming Soon. |
+| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS - Demo of delivery system, all MVP modules are avaiable. |
+| **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Demo of ERP Business. |
+| **[Conceptual Steel Shutter Open]()** | Website Starts with close shutter that open automatically there's a remote present there click to open/close the shutter and have a unique experience, design for sale. |
+| **[Conceptual Saloon Entry]()** | Website Starts with close saloon's door that open on scroll down and close on scroll up and have a unique experience, design for sale. |
+| **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Website open with dark background there's a button present there click to open the lights and have a unique experience, design for sale. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[AISaaSify]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
