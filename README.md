@@ -39,6 +39,7 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[Conceptual Steel Shutter Open](https://conceptual-steel-maintenance-shutte.vercel.app/)** | Website Starts with close shutter that open automatically there's a remote present there click to open/close the shutter and have a unique experience, design for sale, custom change per requirement |
 | **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Website Starts with close saloon's door that open on scroll down and close on scroll up and have a unique experience, design for sale, custom change per requirement. |
 | **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Website open with dark background there's a button present there click to open the lights and have a unique experience, design for sale, custom change per requirement |
+| **[3d Model gallery](https://forma-house-gallery-for3d-models.vercel.app/)** | Website to showcase framer component, embedding with sketchfab, 3d .glb model and 3d .gltf model |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[AISaaSify]()** | Coming Soon. |
