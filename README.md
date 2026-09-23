@@ -34,16 +34,16 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[theFYT](https://the-fyt.vercel.app/)** | Platform for finding viral trends, optimizing scripts, and transcribing videos. |
 | **[XTokens](https://www.xtokens.io/)** | Blockchain project featuring an XRPL wallet and a platform for buying XRP meme coins. |
 | **[Social Media App (Flutter)](https://github.com/shahzaddmajid12/Social-Media-App-Screens)** | Social media application UI screens developed with Flutter. |
-| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS - Demo of delivery system, all MVP modules are avaiable. |
-| **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Demo of ERP Business. |
-| **[Conceptual Steel Shutter Open](https://conceptual-steel-maintenance-shutte.vercel.app/)** | Website Starts with close shutter that open automatically there's a remote present there click to open/close the shutter and have a unique experience, design for sale, custom change per requirement |
-| **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Website Starts with close saloon's door that open on scroll down and close on scroll up and have a unique experience, design for sale, custom change per requirement. |
-| **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Website open with dark background there's a button present there click to open the lights and have a unique experience, design for sale, custom change per requirement |
-| **[3d Model gallery](https://forma-house-gallery-for3d-models.vercel.app/)** | Website to showcase framer component, embedding with sketchfab, 3d .glb model and 3d .gltf model |
+| **[Drovi/Bitefoodly](https://bitefoodly.pages.dev/)** | SaaS demo for a food delivery system with all major MVP modules. |
+| **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Demo of a business ERP system covering all business management modules. |
+| **[Conceptual Steel Shutter Open](https://conceptual-steel-maintenance-shutte.vercel.app/)** | Interactive website where a steel shutter opens and closes using a remote control. Customizable for different business requirements. |
+| **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Interactive website where the saloon door opens on scroll down and closes on scroll up. Customizable for different businesses. |
+| **[Conceptual Lights-On/Off](https://lights-on-immersively-1.vercel.app)** | Interactive website that starts in darkness. Users can turn the lights on with a button for a unique visual experience. |
+| **[3d Model gallery](https://forma-house-gallery-for3d-models.vercel.app/)** | Website for showcasing Framer component, embedding Sketchfab, GLB, and GLTF 3D models. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
-| **[AISaaSify]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
+| **[AISaaSify]()** | Coming Soon. |
 | **[Muntazim]()** | Coming Soon. |
 | **[Sab Khelaao]()** | Coming Soon. |
 
