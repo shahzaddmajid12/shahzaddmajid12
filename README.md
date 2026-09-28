@@ -26,6 +26,8 @@ I’m passionate about building impactful products and aspire to found or contri
 | Project Name & Link | Description |
 |---|---|
 | **[System Decoding](https://www.systemdecoding.com/)** | Software business website using javascript and Framer components. |
+| **[ART MATTER Gallery](https://art-matter-gallery-entering-concept.vercel.app/)** | Enter the exhibition and move through different rooms/chapters by scrolling. Select an artwork to explore its details, and experience the exhibition in VR |
+| **[Vertica - Virtual Elevator Experience](https://conceptual-elevator-vertica.vercel.app/)** | Enter the building and step into the elevator by scrolling. Select a floor to explore the website’s features and experience an interactive virtual elevator journey. |
 | **[ConnectCareTrans (Chicago)](https://www.connectcaretrans.com/)** | SaaS - Non-emergency medical transportation platform with ride booking, driver assignment, live tracking, payments, chat, calling, and automated reporting; used by 5,000+ clients with 20,000+ rides. |
 | **[Kalotia Development (Canada)](https://new-kalotia-development.vercel.app/)** | NEW Professional real estate business website, showcasing projects through interactive Pixel Streaming walkthroughs and providing detailed information about the business and its services. |
 | **[RiyoWork (Chicago)](https://riyowork.com/)** | SaaS -Workforce management platform with geolocation-based clock-in/out, shift scheduling, real-time updates, and role-based access control, and business processes. |
@@ -38,8 +40,7 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[Custom ERP](https://erp-custom-pied.vercel.app/dashboard)** | Demo of a business ERP system covering all business management modules. |
 | **[Conceptual Steel Shutter Open](https://conceptual-steel-maintenance-shutte.vercel.app/)** | Interactive website where a steel shutter opens and closes using a remote control. Customizable for different business requirements. |
 | **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Interactive website where the saloon door opens on scroll down and closes on scroll up. Customizable for different businesses. |
-| **[ART MATTER Gallery](https://art-matter-gallery-entering-concept.vercel.app/)** | Enter exhibition and move to new room/chapter by scrolling and read details by selecting artwork and you can also see it on VR. |
-| **[Vertica - Virtual Elevator Experience](https://conceptual-elevator-vertica.vercel.app/)** | Website ask you enter building and then enter elevator by scroll and select floor to see websites features and experience real virtual elevator experience |
+
 | **[FORMA HAUS 3d Model Gallery](https://forma-house-gallery-for3d-models.vercel.app/)** | Website for showcasing Framer component, embedding Sketchfab, GLB, and GLTF 3D models. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[Conceptual Lights-On/Off]()** | Interactive website that starts in darkness. Users can turn the lights on with a button for a unique visual experience. coming soon |
@@ -48,7 +49,7 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[Muntazim]()** | Coming Soon. |
 | **[Sab Khelaao]()** | Coming Soon. |
 
-<h5 align="center">✨ Links to other projects coming soon: (patient registration system, Premura Corp marketing, gym app, B2B and B2C Apparel e-commerce, Carflix, immersive showroom, hairstylist portfolio, plumbing services, steel coating manufacturing, lighting fixtures, Jewelry Ecommerce Store, Rent Property landing page and management tool, LMS, airforshare and more ) ✨</h5>
+<h5 align="center">✨ Links to other projects coming soon:  Patient Registration System, Premura Corp Marketing Website, Gym App, B2B & B2C Apparel E-commerce, Carflix, Immersive Showroom, Hairstylist Portfolio, Plumbing Services, Steel Coating Manufacturing, Lighting Fixtures, Jewelry E-commerce Store, Property Rental Landing Page & Management Tool, LMS, AirForShare, and more. ✨</h5>
 ---
 
 <br clear="both">
