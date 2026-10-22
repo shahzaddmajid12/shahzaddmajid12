@@ -42,13 +42,16 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[Conceptual Saloon Entry](https://dogan-conceptual-saloon-entery2-b5b.vercel.app/)** | Interactive website where the saloon door opens on scroll down and closes on scroll up. Customizable for different businesses. |
 | **[FORMA HAUS 3d Model Gallery](https://forma-house-gallery-for3d-models.vercel.app/)** | Website for showcasing Framer component, embedding Sketchfab, GLB, and GLTF 3D models. |
 | **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
+| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
+| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
+| **[Larsa Real Estate (Dubai)](https://larsa-real-estate.vercel.app/)** | Real estate website with framer components. |
 | **[Conceptual Lights-On/Off]()** | Interactive website that starts in darkness. Users can turn the lights on with a button for a unique visual experience. coming soon |
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
 | **[Muntazim]()** | Coming Soon. |
 | **[Sab Khelaao]()** | Coming Soon. |
 
-<h5 align="center">✨ Links to other projects coming soon:  Patient Registration System, Premura Corp Marketing Website, Gym App, B2B & B2C Apparel E-commerce, Carflix, Immersive Showroom, Hairstylist Portfolio, Plumbing Services, Steel Coating Manufacturing, Lighting Fixtures, Jewelry E-commerce Store, Property Rental Landing Page & Management Tool, LMS, AirForShare, and more. ✨</h5>
+<h5 align="center">✨ Links to other projects will be available soon, including: a patient registration system, an app for a fitness club, subflix, an immersive showroom, a landing page and management tool for real estate rentals (featuring VR), a learning management system (LMS), AirForShare, and much more. ✨</h5>
 ---
 
 <br clear="both">
