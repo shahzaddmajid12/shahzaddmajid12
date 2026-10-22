@@ -49,7 +49,6 @@ I’m passionate about building impactful products and aspire to found or contri
 | **[AI-CFO-Dashboard]()** | Coming Soon. |
 | **[Havocloft]()** | Coming Soon. |
 | **[Muntazim]()** | Coming Soon. |
-| **[Sab Khelaao]()** | Coming Soon. |
 
 <h5 align="center">✨ Links to other projects will be available soon, including: a patient registration system, an app for a fitness club, sab-flix, an immersive showroom, a landing page and management tool for real estate rentals (featuring VR), a learning management system (LMS), AirForShare, Conceptual Lights-On/Off and much more. ✨</h5>
 ---
